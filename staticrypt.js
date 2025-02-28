@@ -2,7 +2,7 @@ const crypto = require('crypto');
 const fs = require('fs');
 const path = require('path');
 
-const SITE_PASSWORD = 'mihra'; // The password required to decrypt
+const SITE_PASSWORD = 'shhh'; // The password required to decrypt
 const PASSWORD_EXPIRY_DAYS = 5; // Number of days to remember the password
 
 console.log('🔒 StaticCrypt Plugin: File loaded');
