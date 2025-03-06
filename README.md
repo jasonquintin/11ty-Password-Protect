@@ -7,7 +7,6 @@ A simple plugin for [11ty/Eleventy](https://www.11ty.dev/) that adds client-side
 - 🔒 Client-side AES-256-GCM encryption
 - 💾 No server-side components required
 - 🔑 Password persistence with 5-day expiry
-- 🚀 Works with any static hosting
 - ⚡ Preserves and reloads page scripts after decryption
 
 ## Installation
@@ -182,13 +181,3 @@ npm test
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-MIT License - see the [LICENSE](LICENSE) file for details
-
-## Support
-
-- 📚 [Documentation](https://www.11ty.dev/docs/)
-- 🐛 [Issue Tracker](https://github.com/yourusername/eleventy-plugin-staticrypt/issues)
-- 💬 [Discussions](https://github.com/yourusername/eleventy-plugin-staticrypt/discussions) 
